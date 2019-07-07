@@ -1,0 +1,1 @@
+INSERT INTO `member_payment_password`(`id`, `member_id`, `password_salt`, `password`,`create_time`, `update_time`, `updated_by`,`created_by`, `is_deleted`, `opt_counter`) VALUES ('6552054397534273701', '6437245567739428916','eU0Tyu05tFouxaBa', 'b5b977d14949902a077b35845f25e740','2017-04-06 15:42:24', '2017-04-06 15:42:24','6437245567739428916', '6437245567739428916', '0', '0');
